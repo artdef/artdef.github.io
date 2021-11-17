@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gallery on 定藝文化工作室</title>
-    <link>http://artdef.github.io/gallery/</link>
+    <link>https://artdef.github.io/gallery/</link>
     <description>Recent content in Gallery on 定藝文化工作室</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 14 Jul 2018 16:19:08 +0600</lastBuildDate><atom:link href="http://artdef.github.io/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Jul 2018 16:19:08 +0600</lastBuildDate><atom:link href="https://artdef.github.io/gallery/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
